@@ -1,4 +1,4 @@
-## Hi there 👋
+## CodeCrafters friend link 🔨🔨 https://app.codecrafters.io/r/modern-impala-386972 🔨🔨
 
 <!--
 **thenetbeangang/thenetbeangang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
